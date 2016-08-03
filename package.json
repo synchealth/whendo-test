@@ -1,6 +1,7 @@
 {
   "name": "whendo-test",
   "version": "0.2.0",
+  "main": "index.js",
   "author": "Guy Barnard",
   "copyright": "Copyright (c) 2016 Synchronous Health, Inc.  All Rights Reserved."
 }
